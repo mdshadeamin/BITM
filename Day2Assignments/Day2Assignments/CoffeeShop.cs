@@ -46,19 +46,6 @@ namespace Day2Assignments
 
         }
 
-        private void orderComboBox_SelectedIndexChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void richTextBox_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void nameTextBox_TextChanged(object sender, EventArgs e)
-        {
-
-        }
+       
     }
 }
