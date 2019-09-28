@@ -11,9 +11,9 @@ using System.Windows.Forms;
 
 namespace CoffeeShopCRUD
 {
-    public partial class CoffeeShopUI : Form
+    public partial class Customer : Form
     {
-        public CoffeeShopUI()
+        public Customer()
         {
             InitializeComponent();
         }

@@ -1,6 +1,6 @@
 ﻿namespace CoffeeShopCRUD
 {
-    partial class CoffeeShopUI
+    partial class Customer
     {
         /// <summary>
         /// Required designer variable.
