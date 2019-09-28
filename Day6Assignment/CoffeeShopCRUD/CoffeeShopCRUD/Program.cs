@@ -16,9 +16,9 @@ namespace CoffeeShopCRUD
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Customer());
-            //Application.Run(new Item());
-            //Application.Run(new OrdersUI());
+          //  Application.Run(new Customer());
+           // Application.Run(new Item());
+            Application.Run(new OrdersUI());
         }
     }
 }
